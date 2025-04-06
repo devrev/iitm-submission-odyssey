@@ -1,0 +1,9 @@
+{
+    "twitter": {
+      "bearer_token": "YOUR_TWITTER_BEARER_TOKEN"
+    },
+    "devrev": {
+      "agent_token": "YOUR_DEVREV_AGENT_TOKEN"
+    }
+  }
+  
